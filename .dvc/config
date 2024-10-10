@@ -1,0 +1,4 @@
+[core]
+    remote = myrepo
+['remote "myrepo"']
+    url = ../localrepo
